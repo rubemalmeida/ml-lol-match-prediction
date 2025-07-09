@@ -157,6 +157,7 @@ Thumbs.db
 *.dvi
 *.ps
 *.pdf
+*.tex
 !docs/ref/*.pdf
 !docs/*.pdf
 
